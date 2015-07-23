@@ -8,6 +8,6 @@ com.example.view.GifView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
         
-2.在代码中设置gif源
+2.在代码中设置gif源\n
 GifView gvLoad = (GifView) findViewById(R.id.gv_load);
 gvLoad.setMovieResource(R.raw.app_loading);
